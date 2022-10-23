@@ -1,0 +1,13 @@
+1 Hardik 25 M India 100
+2 Dinesh 26 M India 200
+1 Hardik 25 M India 100
+3 Rohit 27 M India 300
+4 Virat 29 M India 500
+4 Virat 29 M India 700
+3 Rohit 27 M India 500
+5 Surya 27 M India 300
+6 Rishabh 26 M India 500
+6 Rishabh 26 M India 50
+5 Surya 27 M India 800
+5 Surya 27 M India 700
+3 Rohit 27 M India 500
